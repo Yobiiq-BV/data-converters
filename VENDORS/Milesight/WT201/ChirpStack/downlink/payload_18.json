@@ -1,6 +1,0 @@
-{
-    "dehumidify": {
-        "enable": 1,
-        "temperature_tolerance": 1
-    }
-}
